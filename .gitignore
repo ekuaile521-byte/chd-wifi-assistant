@@ -1,0 +1,11 @@
+/dist/
+/task_plan.md
+/findings.md
+/progress.md
+credential.bin
+credential.bin.new
+last-run.json
+last-run.json.new
+*.pfx
+*.p12
+*.key
